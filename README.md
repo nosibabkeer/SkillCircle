@@ -1,7 +1,7 @@
-# SkillsCircle
+# SkillCircle
 ## Google Drive 
 https://drive.google.com/drive/folders/13kHcpBFW0Ll1cswey_noQQbDrNn7JiK6?usp=sharing
->  Project Name : Skills Swap
+>  Project Name : SkillCircle
 >  Project Overview: A platform that allows people to exchange skills and knowledge with each other. Users can offer a skill they are good at and learn another skill from someone who has experience in it.
 >  Team Members:
 Samiha mohamed samir
